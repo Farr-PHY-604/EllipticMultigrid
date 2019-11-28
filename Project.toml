@@ -1,0 +1,8 @@
+name = "EllipticMultigrid"
+uuid = "533edf45-ee19-461e-ad45-b42f6675d48c"
+authors = ["Will M. Farr <wfarr-vscholar@flatironinstitute.org>"]
+version = "0.1.0"
+
+[deps]
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
